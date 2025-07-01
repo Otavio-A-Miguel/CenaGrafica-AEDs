@@ -13,8 +13,4 @@ Este projeto em C++ foi desenvolvido como parte da disciplina de **Algoritmos e 
 - C++
 - VS Code
 - Git e GitHub
-
----
-
-## 📁 Estrutura do Projeto
-
+  
