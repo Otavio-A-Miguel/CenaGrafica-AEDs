@@ -1,0 +1,4 @@
+circulo	5
+losangulo	10 2
+cubo	12
+fim
