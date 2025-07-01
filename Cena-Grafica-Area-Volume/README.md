@@ -4,7 +4,6 @@ Este projeto em C++ foi desenvolvido como parte da disciplina de **Algoritmos e 
 
 ## 👨‍💻 Autor
 - **Otávio Augusto Miguel**  
-  Matrícula: 2025.1.08.041  
   Curso: Ciência da Computação - UNIFAL-MG
 
 ---
